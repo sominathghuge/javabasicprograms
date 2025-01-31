@@ -55,7 +55,8 @@ public class ArrayListClass {
 		
 		boolean b=a3.isEmpty();
 		System.out.println(b);
-		
+
+		//set the value at given index position in collection 1
 		a1.set(3, "Raghv");
 		System.out.println(a1);
 	}
