@@ -28,7 +28,7 @@ public class Assignement8 {
 			Assignement8.test(0.2);
 			Assignement8.test("Somi");
 			
-			
+			System.out.println("End");
 		}
 
 	
